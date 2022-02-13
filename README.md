@@ -36,10 +36,7 @@ Below is a list of tasks. By mid-semester, everyone should...
 
 - **RTM** - Sometimes I give the command you need and sometimes you have to read the documentation to find it.
 - **Details** - Follow the instructions.
-- **Classes** - This milestone is made to use with multiple classes; insert your own class name where you see `<your-class-name-here>` (e.g. `dig245-critical-web-design`)
-
-
-
+- **Classes** - This milestone is made to use with multiple classes; insert your own class name where you see `<your-class-name-here>` (e.g. `dig330-physical-computing`)
 
 
 ## Part 1 – Git Basics
@@ -261,7 +258,7 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 
 Item # | Description | Completed
 --- | --- | ---
-1a | 1st Favorite emoji | ADD_TEXT_HERE
+1a | 1st Favorite emoji | ❤️
 1b | Link to `commit #1 from Github.com` |
 1c | Link to markdown tables docs |
 1d | What does `log` do? |
