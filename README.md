@@ -269,7 +269,7 @@ Item # | Description | Completed
 2e | 3rd Favorite emoji | 🌸
 2f | Link to `commit #4 from Atom` | [commit #4 from Atom](https://github.com/miughetta/learn-git-milestones/commit/ea4f58e483457aa57a55150768811a2a99d84759)
 3a | Link to `my-awesome-project` github.com repo page | [link to repo](https://github.com/miughetta/my-awesome-project)
-4a | Link to `my-awesome-project` github.io "project site" |
+4a | Link to `my-awesome-project` github.io "project site" | [link to site](https://miughetta.github.io/my-awesome-project/)
 ... | ... | Total: 0/12
 
 
