@@ -266,7 +266,7 @@ Item # | Description | Completed
 2b | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/miughetta/learn-git-milestones/commit/f5bc9c624cbfac97bdb82bf454b189fe32a5845c)
 2c | Full path to your working directory | /Users/Mimi/Documents/College/Senior/physComp/Untitled/learn-git-milestones
 2d | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/miughetta/learn-git-milestones/commit/95da82a630b59b3813a56a0466cfc7100ae0fc31)
-2e | 3rd Favorite emoji |
+2e | 3rd Favorite emoji | 🌸
 2f | Link to `commit #4 from Atom` |
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
