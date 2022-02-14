@@ -188,7 +188,8 @@ You should be able to ...
   1. Local Path: Click "Choose" and create a new folder `my-awesome-project` inside the `<your-class-name-here>` folder you made above
   1. Click Create Repository
   1. This should now be your class folder's directory structure.
-  ```
+  
+  ```bash
   <your-class-name-here>
     |-- my-awesome-project
     |-- learn-git-milestones
