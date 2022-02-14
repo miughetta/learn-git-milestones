@@ -255,7 +255,7 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 
 
 ## Completions
-
+Completion table:
 Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji | ❤️
